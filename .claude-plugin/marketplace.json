@@ -1,0 +1,11 @@
+{
+  "name": "datar-sessoes",
+  "owner": { "name": "brdantas26" },
+  "plugins": [
+    {
+      "name": "datar-sessoes",
+      "source": "./",
+      "description": "Coloca data e hora da última atividade no título de cada sessão do app Claude desktop."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datar-sessoes",
+  "version": "0.1.0",
+  "description": "Coloca a data da última atividade no título de cada sessão do app Claude desktop, ex.: [22/11] Dicas do vídeo.",
+  "license": "MIT",
+  "keywords": ["sessions", "sidebar", "date", "desktop"]
+}
