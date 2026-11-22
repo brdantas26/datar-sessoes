@@ -1,10 +1,11 @@
 {
   "name": "datar-sessoes",
-  "version": "0.1.1",
-  "description": "Coloca a data da última atividade no título de cada sessão do app Claude desktop, ex.: [22/11] Dicas do vídeo.",
+  "displayName": "Datar Sessões",
+  "version": "0.1.2",
+  "description": "Coloca data e hora da última atividade no título de cada sessão do app Claude desktop, ex.: [22/11 15:14] Dicas do vídeo. Adds last-activity date and time to each Claude desktop session title.",
   "author": { "name": "brdantas26", "url": "https://github.com/brdantas26" },
   "homepage": "https://github.com/brdantas26/datar-sessoes",
   "repository": "https://github.com/brdantas26/datar-sessoes",
   "license": "MIT",
-  "keywords": ["sessions", "sidebar", "date", "desktop"]
+  "keywords": ["sessions", "sidebar", "date", "time", "desktop", "sessões"]
 }
