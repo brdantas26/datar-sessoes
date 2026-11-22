@@ -4,7 +4,7 @@
 
 A skill for the **Claude desktop app** (Code tab) that adds the last-activity date and time to each session title: `[22/11 15:14] My session` (day/month hour:minute, in your local time zone). Run it again to refresh the timestamps.
 
-## Install from GitHub (untested)
+## Install from GitHub
 ```
 /plugin marketplace add brdantas26/datar-sessoes
 /plugin install datar-sessoes@datar-sessoes

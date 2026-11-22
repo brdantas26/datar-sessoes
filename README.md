@@ -4,7 +4,7 @@
 
 Skill para o app **Claude desktop** (aba Code) que coloca a data da última atividade no título de cada sessão: `[22/11 15:14] Dicas do vídeo` (dia/mês hora:minuto). Rode de novo para atualizar as datas.
 
-## Instalar pelo GitHub (não testado)
+## Instalar pelo GitHub
 ```
 /plugin marketplace add brdantas26/datar-sessoes
 /plugin install datar-sessoes@datar-sessoes
