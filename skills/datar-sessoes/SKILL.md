@@ -27,4 +27,4 @@ Requer o app Claude desktop (aba Code): usa as ferramentas `mcp__ccd_session_mgm
 
 - A data muda sempre que a sessão tiver atividade nova; rode de novo para atualizar. Para automatizar, o usuário pode criar uma tarefa agendada que invoque `/datar-sessoes`.
 - A skill não apaga nem arquiva nada, e só altera títulos.
-- Para desfazer: remova o prefixo `[dd/mm] ` de cada título.
+- Para desfazer: remova o prefixo `[dd/mm HH:mm] ` de cada título.
