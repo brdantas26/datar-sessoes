@@ -1,6 +1,7 @@
 {
   "name": "datar-sessoes",
   "owner": { "name": "brdantas26" },
+  "metadata": { "description": "Skill que coloca data e hora da última atividade no título das sessões do Claude desktop." },
   "plugins": [
     {
       "name": "datar-sessoes",

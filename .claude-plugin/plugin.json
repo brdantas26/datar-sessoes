@@ -2,6 +2,9 @@
   "name": "datar-sessoes",
   "version": "0.1.1",
   "description": "Coloca a data da última atividade no título de cada sessão do app Claude desktop, ex.: [22/11] Dicas do vídeo.",
+  "author": { "name": "brdantas26", "url": "https://github.com/brdantas26" },
+  "homepage": "https://github.com/brdantas26/datar-sessoes",
+  "repository": "https://github.com/brdantas26/datar-sessoes",
   "license": "MIT",
   "keywords": ["sessions", "sidebar", "date", "desktop"]
 }
